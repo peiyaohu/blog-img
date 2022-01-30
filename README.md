@@ -1,0 +1,2 @@
+# blog-img
+PicGo-core
